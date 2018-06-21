@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab12-MvcMovie", "Lab12-MvcMovie\Lab12-MvcMovie.csproj", "{0081ED20-AA02-4682-9964-16C26F0C4676}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab12_MvcMovie", "Lab12-MvcMovie\Lab12_MvcMovie.csproj", "{0081ED20-AA02-4682-9964-16C26F0C4676}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
