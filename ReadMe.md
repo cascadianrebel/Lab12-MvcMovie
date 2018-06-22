@@ -1,6 +1,6 @@
 # Lab12 - Mvc Movie Database
 > Demonstrate understanding of the .NET CORE MVC Web App using built in codes from Visual Studio to create a searchable database.
-![Program Class](https://github.com/cascadianrebel/Lab12-MvcMovie/blob/master/Lab12-MvcMovie/ProgramClass.PNG)
+![Example Movie Index](https://github.com/cascadianrebel/Lab12-MvcMovie/blob/master/Lab12-MvcMovie/MovieIndex.PNG)
 
 
 ## Features
